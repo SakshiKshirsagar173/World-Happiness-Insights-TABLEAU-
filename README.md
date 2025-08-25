@@ -1,5 +1,5 @@
 # World-Happiness-Insights-TABLEAU-
-Title: "World Happiness Dashboard (2015–2019)"
+**Title: "World Happiness Dashboard (2015–2019)"*
 
 Overview: The dataset used for this dashboard is the World Happiness Report for the years 2015–2019. It contains annual data for countries worldwide, including indicators such as GDP per capita, social support, healthy life expectancy, freedom, generosity, and perceptions of corruption.
 
