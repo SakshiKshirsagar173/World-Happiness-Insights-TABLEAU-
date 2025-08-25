@@ -1,4 +1,3 @@
-# World-Happiness-Insights-TABLEAU-
 # "World Happiness Dashboard (2015–2019)"
 
 **Overview**:
